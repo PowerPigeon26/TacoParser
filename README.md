@@ -1,1 +1,1 @@
-Hi! This is an exercise in geolocation, csv parsing, and logging. We take the info about the geographic location of all Taco Bells in the U.S. and find which two are the furthest away compared to any other pair of stores.
+Hi! This is an exercise in geolocation, csv parsing, and logging. We take the info about the geographic location of all Taco Bells in the U.S. and find which two are the furthest away compared to any other pair of stores. The location info is parsed from a CSV.
